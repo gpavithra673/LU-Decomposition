@@ -27,7 +27,7 @@ print(U)
 ~~~
 
 ## Output:
-![lu](lu_python.PNG)
+![lu](lu_python.png)
 
 
 ## Result:
